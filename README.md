@@ -1,10 +1,10 @@
-# Challenge Amigo Secreto 🎁
+# Challenge Amigo Secreto 
 
-¡Bienvenido al proyecto **Amigo Secreto**! Esta es una aplicación web sencilla que te permite sortear nombres de amigos de manera aleatoria para organizar un juego de amigo secreto.
+¡Bienvenido a mi proyecto **Amigo Secreto**! Esta es una aplicación web sencilla que te permite sortear nombres de amigos de manera aleatoria para organizar un juego de amigo secreto.
 
 ---
 
-## 🚀 Características
+## Características
 
 - **Añadir amigos**: Escribe los nombres de tus amigos y añádelos a la lista.
 - **Sortear amigos**: Selecciona un nombre al azar de la lista.
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Cómo usar
+## Cómo usar
 
 1. **Añadir amigos**:
    - Escribe el nombre de un amigo en el campo de texto.
@@ -29,7 +29,7 @@
 
 ---
 
-## 🖥️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **HTML**: Estructura de la página.
 - **CSS**: Estilos y diseño responsive.
