@@ -36,5 +36,3 @@
 - **JavaScript**: Lógica para sortear y manejar la lista de amigos.
 
 ---
-
-## 📂 Estructura del proyecto
